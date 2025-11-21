@@ -1,9 +1,9 @@
-📘 **Project Overview** DONE
+📘 **Project Overview** 
 
 This project analyzes New York City’s bus transportation performance by exploring delay times, day-of-week travel patterns, and common causes of delays or breakdowns. The dataset, split into multiple sheets, provides insights into how bus companies perform across boroughs, how travel demand fluctuates throughout the week, and which operational issues most frequently disrupt service.
 The goal is to transform these raw tables into actionable insights that support data-driven decision-making for improving service reliability and customer satisfaction.
 
-🧩 **Business Problem** DONE
+🧩 **Business Problem** 
 
 NYC’s bus network faces consistent challenges involving delays, breakdowns, and uneven performance across boroughs and time periods. These issues directly impact:
 
@@ -13,11 +13,11 @@ NYC’s bus network faces consistent challenges involving delays, breakdowns, an
 - Service reliability and scheduling
 
 
-💻 **Tech Stack** DONE
+💻 **Tech Stack** 
 
 - Microsoft Excel
 
-**Data Cleaning and Transformation:** DONE
+**Data Cleaning and Transformation:** 
 
 - Broke a full date column by the =WEEKDAY formula.
 - Data Normalization.
@@ -25,7 +25,7 @@ NYC’s bus network faces consistent challenges involving delays, breakdowns, an
 - Deleted outliers rom the dataset (dates of 1900).
 - Created Pivot Tables and Pivot Charts.
 
-**1. What are the most common reasons for delays and breakdowns?** DONE
+**1. What are the most common reasons for delays and breakdowns?** 
 
 Graph used: Clustered Bar
 Based on the Pivot Tables and the Pivot Charts for this question our findings were the following:
@@ -42,7 +42,7 @@ Potential Solution: Have buses pick up majority of students at non-high traffic 
 Note: There are almost 14k delays due to Mechanical issues. This could be resolved with
 the plan for breakdowns in servicing the vehicles regularly.
 
-**2. How do delay times vary by bus company and borough?** DONE
+**2. How do delay times vary by bus company and borough?** 
 
 Graph used: Clustered Bar
 Based on the Pivot Tables and the Pivot Charts for this question our findings were the following:
@@ -57,7 +57,7 @@ The boros with the highest delay times are the main areas of NYC. These are the 
 highest concentration of people and vehicles  which would account for the longer delays.
 Conclusion: This is accurate to what I would have hypothesized.
 
-**3. Is there a correlation between specific days of the week and the frequency of breakdowns or delays?** DONE
+**3. Is there a correlation between specific days of the week and the frequency of breakdowns or delays?** 
 
 Graph used: Line Charts
 Based on the Pivot Tables and the Pivot Charts for this question our findings were the following:
