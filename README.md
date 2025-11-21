@@ -30,13 +30,13 @@ NYC’s bus network faces consistent challenges involving delays, breakdowns, an
 Graph used: Clustered Bar
 Based on the Pivot Tables and the Pivot Charts for this question our findings were the following:
 
-- Breakdown:
+- **Breakdown:**
 The majority of breakdowns are occuring due to Mechanical Problems or "Wont Start" which also 
 seems to be a mechanical problem.
 Recommendation: More precautionary maintenance done to prevent mechanical problems. Potentially 
 have buses serviced monthly or quarterly to reduce this.
 
-- Reasons for Delay:
+- **Reasons for Delay:**
 Overwhelmingly, the main cause of delays is traffic.
 Potential Solution: Have buses pick up majority of students at non-high traffic times.
 Note: There are almost 14k delays due to Mechanical issues. This could be resolved with
