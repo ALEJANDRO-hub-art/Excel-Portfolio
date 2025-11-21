@@ -47,12 +47,12 @@ the plan for breakdowns in servicing the vehicles regularly.
 Graph used: Clustered Bar
 Based on the Pivot Tables and the Pivot Charts for this question our findings were the following:
 
-Largest Delay Times for Bus Companies:
+**Largest Delay Times for Bus Companies:**
 There are the top 10 companies with the highest delay times.
 Recommendation: Use this to compare to # of delays, boros, and total number of trips.
 Could be mechanical issues - fix with regular maintenance OR we need to fire them.
 
-Longest Delay Times Per Boro:
+**Longest Delay Times Per Boro:**
 The boros with the highest delay times are the main areas of NYC. These are the areas with the
 highest concentration of people and vehicles  which would account for the longer delays.
 Conclusion: This is accurate to what I would have hypothesized.
@@ -62,12 +62,12 @@ Conclusion: This is accurate to what I would have hypothesized.
 Graph used: Line Charts
 Based on the Pivot Tables and the Pivot Charts for this question our findings were the following:
 
-Running Late:
+**Running Late:**
 Spike in Delays on Monday and a decrease in delays on Fridays.
 Conclusion: Since the majority of delays are caused by traffic, we can assume the decrease in delays
 on Friday are caused by less people going into work or driving on that day
 
-Breakdown:
+**Breakdown:**
 There is a gradual decrease in breakdowns throughout the week. Higher percentage of breakdowns 
 happening on Monday and decreases throughout the week.
 Recommendation: Schedule Maintenance over weekends to help with breakdowns.
