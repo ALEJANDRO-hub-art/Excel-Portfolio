@@ -76,7 +76,7 @@ Graph used: Line Charts
 
 <img width="397" height="210" alt="Running Late" src="https://github.com/user-attachments/assets/0d33d673-52e1-4761-8ac1-a8cbbac0c911" />
 
-- **Breakdown:**
+**Breakdown:**
 - There is a gradual decrease in breakdowns throughout the week. Higher percentage of breakdowns happening on Monday and decreases throughout the week.
 - Recommendation: Schedule Maintenance over weekends to help with breakdowns.
 
