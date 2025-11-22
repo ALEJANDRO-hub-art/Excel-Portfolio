@@ -77,14 +77,14 @@ Recommendation: Schedule Maintenance over weekends to help with breakdowns.
 
 --------------------------------------------------------------------------------------------------------------------------
 
-📊 **US Debt Tracker Project** DONE
+📊 **US Debt Tracker Project** 
 
-📘 **Project Overview** DONE
+📘 **Project Overview** 
 
 The US Debt Tracker Project is designed to analyze, monitor, and forecast the growth of the United States national debt. Using multiple datasets containing historical monthly values, yearly percentage changes, and projected future trends, this project provides a structured analytical framework to understand how federal debt evolves over time.
 The purpose of the project is to transform raw economic data into meaningful insights that highlight long-term financial risks, growth patterns, and key inflection points. By combining descriptive analytics with forward-looking projections, the project supports data-driven decision-making for analysts, financial agencies, and policy researchers.
 
-🧩 **Business Problem** DONE
+🧩 **Business Problem** 
 
 The United States’ national debt continues to rise, creating significant long-term challenges related to federal budgeting, inflation management, interest obligations, and economic stability.
 
@@ -93,31 +93,31 @@ The business problem this project addresses is:
 
 To solve this, the project focuses on answering core analytical questions:
 
-**1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?** DONE
+**1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?** 
    
 - The Yearly Debt Percentage Increase will show how fast the total U.S. debt has grown from one year to the next. Typically, national debt increases most years, often ranging from 2% to 10% annually, depending on economic conditions, federal spending, and major events. The final dataset will show the exact percentage increase for each individual year.
 
-**2. Which months historically have seen the highest/lowest increases in Total debt?** DONE
+**2. Which months historically have seen the highest/lowest increases in Total debt?** 
    
 - Some months tend to show larger increases in debt due to seasonal spending patterns (e.g., fiscal year boundaries, stimulus disbursements, or budget cycles).
 The highest-increase months are often tied to periods of higher federal budget activity, while the lowest-increase months may reflect periods of reduced spending or stabilizing debt accumulation. Exact monthly trends will be identified once the dataset is analyzed.
 
-**3. What is the projected growth of the publicly held debt in the next few years?** DONE
+**3. What is the projected growth of the publicly held debt in the next few years?** 
 
 - The projected growth will depend on the model used in the dataset. Generally, U.S. publicly held debt is expected to continue rising each year, often at a steady or accelerating pace depending on economic forecasts. The projection sheet in the dataset will provide the specific forecasted values over the next several years.
 
-💻 **Tech Stack** DONE
+💻 **Tech Stack** 
 
 - Microsoft Excel
 
-**Data Cleaning and Transformation:** DONE
+**Data Cleaning and Transformation:** 
 
 - Deleted BLANKS and NULL values.
 - Applied Data Formats from Scientific to Number
 - Added Puntuation
 
   
-**1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?** DONE
+**1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?** 
 
 - Debt growth was modest and stable from 2016–2019.
 
