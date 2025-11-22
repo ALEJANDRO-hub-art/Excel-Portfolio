@@ -115,51 +115,9 @@ The highest-increase months are often tied to periods of higher federal budget a
 - Deleted BLANKS and NULL values.
 - Applied Data Formats from Scientific to Number
 - Added Puntuation
+
   
-
-
-**1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?**
-
-Graph used: Line Charts, Yearly Debt Percentage Increase.
-- Based on the Pivot Tables and the Pivot Charts for this question our findings were the following:
-  
-- Overall Trends and Key Observations
-Across all three debt categories, the chart shows relatively steady, moderate growth from 2016 to 2019, followed by:
-A massive spike in 2020. This corresponds to the economic impact of COVID-19 stimulus spending, emergency federal programs, large-scale borrowing to stabilize the economy, then a sharp decline in growth in 2021 and 2022, returning closer to pre-pandemic levels.
-
-- Debt Held by the Public (Blue Line)
-  
-This category shows the most volatility and the largest spike in 2020. 
-From 2016–2019 it was moderate, steady increases, generally ranges between 5%–10% annual growth, suggests normal federal borrowing patterns. 
-In 2020 we see a dramatic surge (~25–30%) with the highest point on the entire graph, this reflects unprecedented borrowing during the pandemic; indicates heavy reliance on public investors, Treasury bonds, and external financing.
-2021–2022 we see a sharp correction downward growth falls back to around 5%, similar to pre-pandemic levels. This indicates emergency borrowing slowed significantly once the crisis passed.
-
-Interpretation:
-Debt held by the public expanded aggressively during crisis conditions, then stabilized. This category was the primary driver of total debt growth.
-
-- Intragovernmental Holdings (Orange Line)
-
-This line is much flatter and does not show dramatic spikes.
-Consistent, low growth (2016–2019) and  slight increases each year. Represents internal borrowing between government agencies (e.g., Social Security Trust Fund, Medicare).
-In 2020 Uptick we see a noticeable increase but not nearly as dramatic as public debt, this suggests some internal borrowing adjustments due to economic pressures.
-In 2021–2022 returns to normal. We see growth stabilizes back to low levels, this indicates intragovernmental transfers did not drive total borrowing.
-
-Interpretation:
-Intragovernmental debt behaves more steadily because it is tied to trust fund operations, not market borrowing. It is less sensitive to economic shocks.
-
-- Total Public Debt Outstanding (Gray Line)
-
-This line combines the previous two categories and reflects the overall national debt growth rate.
-In 2016–2019 we see a gradual upward trend that slightly increasing year-to-year. This indicates steady borrowing as part of routine fiscal operations.
-In 2020 we see a pronounced spike (Mirrors the public debt surge). Total debt growth jumps significantly higher than any other year (Confirms 2020 as an exceptional event in fiscal history).
-In 2021–2022 we see a sharp return to moderate growth. Quickly falls back down toward ~5% this shows stabilization after emergency spending phases ended.
-
-Interpretation:
-The total debt pattern is heavily driven by the public debt spike. The system corrected itself once fiscal pressures eased.
-
-**Final Summary**
-
-The graph shows that:
+**1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?** DONE
 
 - Debt growth was modest and stable from 2016–2019.
 
@@ -171,12 +129,39 @@ The graph shows that:
 
 - By 2021–2022, debt growth returns to near-normal levels, but the long-term upward trend persists.
 
+<img width="288" height="210" alt="Yearly Debt Percentage Increase" src="https://github.com/user-attachments/assets/0eaef45d-c1d0-443f-811b-b6e5877c592d" />
+
 
 **2. Which months historically have seen the highest/lowest increases in Total debt?**
+
+- A continuous upward trajectory in U.S. public debt across the year
+
+- Slight early-year reductions followed by steady increases
+
+- Major growth in late-year months
+
+- High starting and ending levels in January and December
+
+- Minimal monthly variability compared to the long-term upward trend
+
+- Overall, the chart reveals a predictable, relentless rise in U.S. debt, with only mild monthly fluctuations and stronger increases toward the fiscal-year end.
+
+<img width="306" height="210" alt="Montly Average Total Debts" src="https://github.com/user-attachments/assets/e590355e-efa1-4095-8345-a5bb86282eb6" />
+
+
 **3. What is the projected growth of the publicly held debt in the next few years?**
 
+- A long-term exponential rise in U.S. total public debt
 
+- Slow growth (1997–2003) → faster growth (2003–2008) → sharp acceleration (2008–2019)
 
+- A massive breakout spike in 2020–2021 due to the pandemic
+
+- Projected continued steep growth through 2027
+
+- Overall, the graph highlights a consistent and accelerating increase in debt over 30+ years, driven by structural deficits and amplified by major economic crises.
+
+<img width="297" height="210" alt="Projected Publicly Held Debt" src="https://github.com/user-attachments/assets/3530591d-759c-4b4c-b89a-95a7c30b7fe6" />
 
 
 
