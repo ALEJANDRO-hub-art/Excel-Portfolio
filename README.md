@@ -39,11 +39,15 @@ seems to be a mechanical problem.
 Recommendation: More precautionary maintenance done to prevent mechanical problems. Potentially 
 have buses serviced monthly or quarterly to reduce this.
 
+<img width="467" height="210" alt="Breakdown" src="https://github.com/user-attachments/assets/14ca6e7f-fff7-4842-8764-25461da73357" />
+
 - **Reasons for Delay:**
 Overwhelmingly, the main cause of delays is traffic.
 Potential Solution: Have buses pick up majority of students at non-high traffic times.
 Note: There are almost 14k delays due to Mechanical issues. This could be resolved with
 the plan for breakdowns in servicing the vehicles regularly.
+
+<img width="476" height="224" alt="Reasons for Delays" src="https://github.com/user-attachments/assets/c64e643a-4bb5-4d68-9b2c-9d2add9c16ec" />
 
 **2. How do delay times vary by bus company and borough?** 
 
@@ -55,10 +59,14 @@ There are the top 10 companies with the highest delay times.
 Recommendation: Use this to compare to # of delays, boros, and total number of trips.
 Could be mechanical issues - fix with regular maintenance OR we need to fire them.
 
+<img width="654" height="291" alt="Largest Delay Times for Bus Companies" src="https://github.com/user-attachments/assets/fe137835-94be-4fa3-94ef-6d5fc818ce7c" />
+
 - **Longest Delay Times Per Boro:**
 The boros with the highest delay times are the main areas of NYC. These are the areas with the
 highest concentration of people and vehicles  which would account for the longer delays.
 Conclusion: This is accurate to what I would have hypothesized.
+
+<img width="534" height="240" alt="Longest Delay Times Per Boro" src="https://github.com/user-attachments/assets/8c6ea3e0-b9e2-4d7f-9cf2-b1134230dc6c" />
 
 **3. Is there a correlation between specific days of the week and the frequency of breakdowns or delays?** 
 
@@ -70,10 +78,15 @@ Spike in Delays on Monday and a decrease in delays on Fridays.
 Conclusion: Since the majority of delays are caused by traffic, we can assume the decrease in delays
 on Friday are caused by less people going into work or driving on that day.
 
+<img width="397" height="210" alt="Running Late" src="https://github.com/user-attachments/assets/0d33d673-52e1-4761-8ac1-a8cbbac0c911" />
+
 - **Breakdown:**
 There is a gradual decrease in breakdowns throughout the week. Higher percentage of breakdowns 
 happening on Monday and decreases throughout the week.
 Recommendation: Schedule Maintenance over weekends to help with breakdowns.
+
+<img width="401" height="217" alt="Breakdowns" src="https://github.com/user-attachments/assets/16878a02-88a2-4f40-b2ca-a8679c58cc62" />
+
 
 --------------------------------------------------------------------------------------------------------------------------
 
