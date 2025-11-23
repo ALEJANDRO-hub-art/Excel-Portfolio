@@ -1,4 +1,4 @@
-📊 **NYC Transportation Project**
+# 📊 **NYC Transportation Project**
 
 
 📘 **Project Overview** 
@@ -85,7 +85,7 @@ Graph used: Line Charts
 
 --------------------------------------------------------------------------------------------------------------------------
 
-📊 **US Debt Tracker Project** 
+# 📊 **US Debt Tracker Project** 
 
 📘 **Project Overview** 
 
